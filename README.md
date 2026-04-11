@@ -13,3 +13,5 @@ This project focuses on transforming raw Indian tourism data into actionable mar
 
 ## Main Insight
 The analysis revealed a highly segmented marketing strategy where communication tones (Romantic, Peaceful, Exciting) are strictly mapped to specific traveler personas (Couples, Seniors, Families).
+For video explanation ##Click on the link below
+https://drive.google.com/file/d/1voLEAOWB_9ZXM7UrLbBgRXJDMR5257Xp/view?usp=drivesdk
